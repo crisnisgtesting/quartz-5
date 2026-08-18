@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: anilmandal.github.io/quartz-5
+  baseUrl: crisnisgtesting.github.io/quartz-5
   ignorePatterns:
     - private
     - templates
