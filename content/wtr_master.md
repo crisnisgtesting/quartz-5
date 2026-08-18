@@ -4,7 +4,7 @@ type: wagon-type-master
 source: "wtr_master"
 ---
 
-# 🚂 ROAMS Wagon Type Master
+# 🚂 Type Master
 
 > [!abstract]+ 📋 Central Master Node
 > This is the primary entry point for all ROAMS wagon types.
